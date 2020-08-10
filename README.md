@@ -4,6 +4,8 @@
 
 vim-comment
 
+![introduction](./pictures/introduction.gif)
+
 #### Usage
 
 Do `:call Comment()` and `:call Uncomment()`
