@@ -22,3 +22,11 @@ Install `vim-comment` with [vim-plug](https://github.com/junegunn/vim-plug)
 ```vimscript
 Plug 'matteoZgh/vim-comment'
 ```
+
+#### Support language
+
+- C
+- Cpp
+- Java
+- Python
+- VimScript
